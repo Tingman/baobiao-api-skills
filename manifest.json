@@ -1,0 +1,14 @@
+{
+  "id": "baobiao-api-overview",
+  "name": "世舶招投标数据 API 总概览",
+  "version": "v1.0.0",
+  "description": "世舶科技招投标数据 API 总入口与接口路由助手，覆盖招标、中标、采购意向、合同、项目详情、附件、拟在建项目、企业画像和 AI 文本处理等场景。",
+  "author": {
+    "name": "世舶科技"
+  },
+  "license": "Proprietary",
+  "skills": [
+    "baobiao-api-overview"
+  ],
+  "presets": []
+}
